@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: se.jam.turtlebot.ide
+Bundle-Vendor: My Company
+Bundle-Version: 1.0.0.qualifier
+Bundle-SymbolicName: se.jam.turtlebot.ide; singleton:=true
+Bundle-ActivationPolicy: lazy
+Require-Bundle: se.jam.turtlebot,
+ se.chalmers.turtlebotmission,
+ org.eclipse.xtext.ide,
+ org.eclipse.xtext.xbase.ide
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Export-Package: se.jam.turtlebot.ide.contentassist.antlr.internal,
+ se.jam.turtlebot.ide.contentassist.antlr
+

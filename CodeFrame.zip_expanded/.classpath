@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="CodeFrame/se.chalmers.turtlebotmission.edit/src"/>
+	<classpathentry kind="src" path="CodeFrame/se.chalmers.turtlebotmission.editor/src"/>
+	<classpathentry kind="src" path="CodeFrame/se.chalmers.turtlebotmission.rosstarter/src"/>
+	<classpathentry kind="src" path="CodeFrame/se.chalmers.turtlebotmission.tests/src"/>
+	<classpathentry kind="src" path="CodeFrame/se.chalmers.turtlebotmission.xtext.ide/src-gen"/>
+	<classpathentry kind="src" path="CodeFrame/se.chalmers.turtlebotmission.xtext.ui/src-gen"/>
+	<classpathentry kind="src" path="CodeFrame/se.chalmers.turtlebotmission.xtext.ui/xtend-gen"/>
+	<classpathentry kind="src" path="CodeFrame/se.chalmers.turtlebotmission.xtext/src"/>
+	<classpathentry kind="src" path="CodeFrame/se.chalmers.turtlebotmission.xtext/src-gen"/>
+	<classpathentry kind="src" path="CodeFrame/se.chalmers.turtlebotmission.xtext/xtend-gen"/>
+	<classpathentry kind="src" path="CodeFrame/se.chalmers.turtlebotmission/src"/>
+	<classpathentry kind="lib" path="CodeFrame/se.chalmers.turtlebotmission.rosstarter/lib/ST-4.0.8.jar"/>
+	<classpathentry kind="lib" path="CodeFrame/se.chalmers.turtlebotmission.xtext/.antlr-generator-3.2.0-patch.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="CodeFrame/se.chalmers.turtlebotmission/bin"/>
+</classpath>
